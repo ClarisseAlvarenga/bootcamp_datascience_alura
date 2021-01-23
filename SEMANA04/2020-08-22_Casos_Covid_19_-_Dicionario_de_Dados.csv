@@ -1,0 +1,8 @@
+Nome do Campo;Descrição
+POSICAO;Sequência númerica dos casos
+DATA INCLUSÃO/NOTIFICAÇÃO;Data em que caso de COVID foi incluído na base de dados e realizada a notificação
+CLASSIFICAÇÃO FINAL;Informa os casos de COVID são: confirmado ou suspeito
+IDADE (anos);Idade do paciente no momento da notificação do caso de COVID
+SEXO;Sexo do Paciente
+EVOLUÇÃO;Indica o caso confirmado de COVID se foi recuperado ou se ocorreu o óbito
+DATA DO ÓBITO;Data em que ocorreu o óbito

@@ -1,0 +1,8 @@
+Nome do Campo;Descrição
+HOSPITAL ;Hospitas da Rede Credenciada ao SUS para atendimento aos pacientes com diagnóstico de COVID
+PERFIL DA VAGA;Se o leito atende Adulto ou Pediátrico (criança).  
+TIPO DO LEITO;Se o leito é de UTI - Unidade de Terapia Intensiva ou de Enfermaria
+LEITOS COVID ATIVADOS;Leitos reservados para atendimento à pacientes com diagnóstico de COVID
+TOTAL DE PACIENTES INTERNADOS - CONFIRMADOS E SUSPEITOS DE COVID;Número total de pacientes internados com diagnóstico confirmado ou suspeito de COVID
+TOTAL DE LEITOS LIVRES;Número de leitos livres aguardando novos pacientes
+OUTROS LEITOS SUS;Número de leitos cadastrados ao SUS que não estavam reservados para atendimento de pacientes com diagnóstico de COVID

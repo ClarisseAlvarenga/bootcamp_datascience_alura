@@ -1,0 +1,11 @@
+;Campo;Descrição;Tipo de Dado;Tamanho
+1;Órgão;Secretaria ou ente responsável pela realização da despesa;varchar;10
+2;Número do Processo;Numeração sequencial do procedimento licitatório.;varchar;20
+3;Modalidade;Forma de Contratação;varchar;50
+4;Objeto;São bens e serviços cujos padrões de desempenho e qualidade são objetivamente definidos na instrução processual. ;text;16
+5;Valor Total/Global;Valor que integraliza os valores de todos os itens unitários contidos no processo de aquisição/contratação.;decimal;9
+6;Local de Execução/Entrega;Endereço onde será entregue o objeto licitado. ;varchar;70
+7;Data Diário Oficial;Data de publicação dos atos no Diário Oficial do Município. ;datetime;8
+8;Protocolo;Conjunto de documentos oficialmente reunidos em uma única arquivística.;varchar;524
+9;Prazo Contratual;Data de vigência do contrato;datetime;8
+10;Situação;Situação do andamento em que se encontra o contrato ou o empenho;varchar;50

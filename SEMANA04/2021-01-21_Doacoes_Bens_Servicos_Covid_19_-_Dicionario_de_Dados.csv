@@ -1,0 +1,11 @@
+Campo;Descrição;Tipo de Dado;Tamanho
+Órgão;Secretaria ou ente responsável pelo recebimento da doação.;VARCHAR;10
+Objeto;São bens e serviços cujos padrões de desempenho e qualidade são objetivamente definidos na instrução processual. ;VARCHAR;500
+Doador;Particulares pessoas físicas ou jurídicas, destinados a cooperar com o Poder Público Municipal nas ações decorrentes do estado de emergência em saúde pública deflagrada pela pandemia do Coronavírus (COVID-19).;VARCHAR;50
+CNPJ/CPF;Número sequencial do particular (pessoa física ou jurídica), registrado junto à Receita Federal do Brasil.;VARCHAR;18
+Protocolo;Conjunto de documentos oficialmente reunidos em uma única arquivística.;VARCHAR;40
+Quantidade;Relação numérica que expressa a quantia necessária do objeto doado.;NUMERIC;18,2
+Unidade de Medida;Unidade de medida referente a quantidade do objeto doado.;VARCHAR;40
+Local de Execução/Entrega;Endereço onde será entregue o objeto doado. ;VARCHAR;50
+Data do Recebimento;Data de entrega do bem ou serviço doado ao Município. ;DATE;
+Destinação / Finalidade;Órgão ou entidade que receberá o objeto doado.;VARCHAR;255
